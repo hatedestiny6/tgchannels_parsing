@@ -1,0 +1,2 @@
+RECEIVER_1 = "-1002088925993"  # chat id
+RECEIVER_2 = "-1002088925993"  # chat id
